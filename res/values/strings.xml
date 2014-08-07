@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Slider Menu</string>
+    <string name="app_name">ICT For Agriculture (IFA)</string>
     <string name="action_settings">Settings</string>
     <string name="action_about">About</string>
     <string name="hello_world">Hello world!</string>
@@ -71,7 +71,7 @@
     <!-- Weather Page -->
     <string name="weather_title">मौसम जानकारी</string>
     <string name="location">कृपया स्थान छान्नुहोस्</string>
-    <string name="day">कृपया िदन छान्नुहाेस्</string>
+    <string name="day">कृपया दिन छान्नुहाेस्</string>
     <string name="source">Source: Accuweather.com </string>
 
     <string-array name="location">
@@ -103,7 +103,7 @@
 
     <!-- crop disease List -->
     <string-array name="crop_disease">
-        <item>अालु / Potato</item>
+        <item>आलु / Potato</item>
         <item>फूल्गोवी जात</item>
         <item>फल समूह</item>
         <item>लहरे तरकारी</item>
@@ -120,6 +120,11 @@
         <item>माछा / Goat Sheep</item>
         <item>कुखुरा / Hens</item>
     </string-array>
+    
+    <!-- Login Page -->
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
 
     <!-- Nav Drawer List Item Icons -->
     <!-- Keep them in order as the titles are in -->
