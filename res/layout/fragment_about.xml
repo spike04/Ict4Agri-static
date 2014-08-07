@@ -122,7 +122,8 @@
                 android:paddingTop="15dp"
                 android:text="@string/copyright"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:textStyle="bold|normal" />
+                android:textStyle="bold"
+                android:paddingBottom="10dip" />
         </LinearLayout>
     </ScrollView>
 

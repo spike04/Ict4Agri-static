@@ -23,6 +23,69 @@
     <string name="details">For detail information of IFA project, please visit www.ict4agri.com</string>
     <string name="reach_us">Reach us at ict4agri@gmail.com</string>
 
+    <!-- Fertilizer Page -->
+    <string name="fertilizer_title">Fertilizer Dose / Malkhads</string>
+    <string name="spinner_title">Choose Crop</string>
+    <string name="choose_crop">Choose Crop:</string>
+    <string name="ropani">Ropani: </string>
+    <string name="aana">Aana: </string>
+    <string name="submit">Submit</string>
+    <string name="enter_a_number">Enter a Number</string>
+
+    <string-array name="crop_list">
+        <item>Aalu</item>
+        <item>Golveda</item>
+        <item>Pyaaj</item>
+        <item>Simi</item>
+        <item>Bandaa</item>
+        <item>Kauli</item>
+        <item>Khursaani</item>
+        <item>Schus</item>
+        <item>Bodi</item>
+        <item>Keraau</item>
+        <item>Vaanta</item>
+        <item>Karelaa</item>
+        <item>Mulaa</item>
+        <item>Saag</item>
+        <item>Lasun</item>
+        <item>Aduwaa</item>
+        <item>Kaakro</item>
+        <item>Gaajar</item>
+        <item>Ghiraula</item>
+        <item>Chamsur</item>
+        <item>Palungo</item>
+        <item>Pharsi</item>
+        <item>Laukaa</item>
+        <item>Kurilo</item>
+        <item>Tarkaarivatmaas</item>
+        <item>Dhaan</item>
+        <item>Makai</item>
+        <item>Gahu</item>
+        <item>Kaauli</item>
+    </string-array>
+
+    <!-- Weather Page -->
+    <string name="weather_title">मौसम जानकारी</string>
+    <string name="location">कृपया स्थान छान्नुहोस्</string>
+    <string name="day">कृपया िदन छान्नुहाेस्</string>
+    <string name="source">Source: Accuweather.com </string>
+
+    <string-array name="location">
+        <item>बनेपा</item>
+        <item>पनौती</item>
+        <item>पाँचखाल</item>
+        <item>काठमाडौँ</item>
+        <item>धादिंग</item>
+        <item>सिन्धुली गढी</item>
+        <item>रामेछाप</item>
+        <item>भैरहवा</item>
+    </string-array>
+    <string-array name="day">
+        <item>० (आज)</item>
+        <item>१ (भोली)</item>
+        <item>२ (पर्सी)</item>
+    </string-array>
+
     <!-- Nav Drawer Menu Items -->
     <string-array name="nav_drawer_items">
         <item>Home</item>
@@ -33,14 +96,13 @@
         <item>Weather Forecast</item>
         <item>Login</item>
     </string-array>
-    
+
     <!-- crop disease List -->
     <string-array name="crop_disease">
-    	<item >अालु / Potato</item>
-    	<item >आलु</item>  
+        <item>अालु / Potato</item>
+        <item>आलु</item>
     </string-array>
-    
-    
+
     <!-- Nav Drawer List Item Icons -->
     <!-- Keep them in order as the titles are in -->
     <array name="nav_drawer_icons">
@@ -55,5 +117,7 @@
 
     <!-- Content Description -->
     <string name="desc_list_item_icon">Item Icon</string>
+
+    <!--  -->
 
 </resources>

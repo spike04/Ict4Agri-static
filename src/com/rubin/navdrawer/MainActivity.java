@@ -181,19 +181,19 @@ public class MainActivity extends Activity {
 			fragment = new CropDiseaseFragment();
 			break;
 		case 2:
-			fragment = new PhotosFragment();
+			fragment = new AnimalDiseaseFragment();
 			break;
 		case 3:
-			fragment = new CommunityFragment();
+			fragment = new FertilizerDoseFragment();
 			break;
 		case 4:
-			fragment = new PagesFragment();
+			fragment = new MarketInfoFragment();
 			break;
 		case 5:
-			fragment = new WhatsHotFragment();
+			fragment = new WeatherForecastFragment();
 			break;
 		case 6:
-			fragment = new PagesFragment();
+			fragment = new LoginFragment();
 			break;
 		default:
 			break;
