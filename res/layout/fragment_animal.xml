@@ -4,12 +4,12 @@
     android:layout_height="match_parent" >
 
     <ListView
-        android:id="@+id/croplist"
+        android:id="@+id/animallist"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:entries="@array/crop_disease" >
+        android:entries="@array/animal_disease" >
         
     </ListView>
 

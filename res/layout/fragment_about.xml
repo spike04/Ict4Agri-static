@@ -4,13 +4,13 @@
     android:layout_height="match_parent" >
 
     <ScrollView
-        android:id="@+id/scrollLayout"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent" >
 
         <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:id="@+id/linear_home"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
             android:orientation="vertical" >
 
             <TextView
@@ -58,7 +58,7 @@
                 android:paddingLeft="15dp"
                 android:paddingTop="15dp"
                 android:src="@drawable/smiles_logo" />
-            
+
             <TextView
                 android:id="@+id/supported_by"
                 android:layout_width="fill_parent"
@@ -94,7 +94,7 @@
                 android:paddingLeft="15dp"
                 android:paddingTop="15dp"
                 android:src="@drawable/logocan" />
-            
+
             <TextView
                 android:id="@+id/details"
                 android:layout_width="fill_parent"
@@ -103,7 +103,7 @@
                 android:paddingTop="15dp"
                 android:text="@string/details"
                 android:textAppearance="?android:attr/textAppearanceMedium" />
-            
+
             <TextView
                 android:id="@+id/reach_us"
                 android:layout_width="fill_parent"
@@ -112,18 +112,18 @@
                 android:paddingTop="15dp"
                 android:text="@string/reach_us"
                 android:textAppearance="?android:attr/textAppearanceMedium" />
-            
+
             <TextView
                 android:id="@+id/ict_copyright"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center_horizontal"
+                android:paddingBottom="10dip"
                 android:paddingLeft="15dp"
                 android:paddingTop="15dp"
                 android:text="@string/copyright"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:textStyle="bold"
-                android:paddingBottom="10dip" />
+                android:textStyle="bold" />
         </LinearLayout>
     </ScrollView>
 

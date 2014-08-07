@@ -7,6 +7,10 @@
     <string name="hello_world">Hello world!</string>
     <string name="drawer_open">Slider Menu Opened</string>
     <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Home Page -->
+    <string name="welcome">Welcome to IFA</string>
+    <string name="welcome2">Welcome to ICT for Agriculture (IFA)</string>
     <string name="mission">Mission: Ensure maximum yield with real-time agricultural resources during pre-harvest and ensure balance market with scientific use of ICT for rural farmers.</string>
     <string name="mission1">An effort towards scientific practice in Agriculture in Nepal.</string>
     <string name="regards">With Regards</string>
@@ -100,7 +104,21 @@
     <!-- crop disease List -->
     <string-array name="crop_disease">
         <item>अालु / Potato</item>
-        <item>आलु</item>
+        <item>फूल्गोवी जात</item>
+        <item>फल समूह</item>
+        <item>लहरे तरकारी</item>
+        <item>कोशे तरकारी</item>
+        <item>धान</item>
+        <item>मकै</item>
+        <item>गहु</item>
+    </string-array>
+
+    <!-- Animal Disease List -->
+    <string-array name="animal_disease">
+        <item>गाई / Cow Buffalo</item>
+        <item>भैसी / Fish</item>
+        <item>माछा / Goat Sheep</item>
+        <item>कुखुरा / Hens</item>
     </string-array>
 
     <!-- Nav Drawer List Item Icons -->
